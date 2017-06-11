@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Scan Bill" />
+        <item
+            android:id="@+id/nav_warranty"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Scan Warranty" />
+        <item
+            android:id="@+id/nav_viewBill"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="View Bill" />
+        <item
+            android:id="@+id/nav_viewWarranty"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="View Warranty" />
+        <item
+            android:id="@+id/nav_Logout"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Logout" />
+    </group>
+
+
+</menu>

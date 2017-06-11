@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1069332720618",
+    "firebase_url": "https://angel-hack-savyobills.firebaseio.com",
+    "project_id": "angel-hack-savyobills",
+    "storage_bucket": "angel-hack-savyobills.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069332720618:android:76a6cca5ef13842b",
+        "android_client_info": {
+          "package_name": "com.codegears.angelhacksavyobills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069332720618-i4as4kj2j68hm6fibhvh5jcuiknllat5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codegears.angelhacksavyobills",
+            "certificate_hash": "ef4ef9aed75ad983ce1dfb550c37f2aa07ee124a"
+          }
+        },
+        {
+          "client_id": "1069332720618-ff5ct7hf92md9q34jub784r9u3m3nno8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASKoRc0KhVV3N7RhmqUcJL23NglA_IXIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069332720618-ff5ct7hf92md9q34jub784r9u3m3nno8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

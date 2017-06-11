@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_camera" type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_warranty" type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_viewBill" type="drawable">@android:drawable/ic_menu_slideshow</item>
+    <item name="ic_menu_viewWarranty" type="drawable">@android:drawable/ic_menu_slideshow</item>
+</resources>
